@@ -4,7 +4,7 @@ markdown-emoji-snippets helps you easily add emojis into your file. You can use 
 
 ## Usage
 
-You can download the extension from 👉 //TODO: extension marketplace url!!!
+You can download the extension from 👉 [here](https://marketplace.visualstudio.com/items?itemName=EngincanV.markdown-emoji-snippets).
 
 Then, start typing `::<emoji-name>` and add the emoji into your file. That's it!
 

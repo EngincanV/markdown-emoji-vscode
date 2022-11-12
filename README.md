@@ -1,14 +1,12 @@
-# markdown-emoji README
+# markdown-emoji-snippets
 
-markdown-emoji helps you easily add emojis into your file. You can use these emojis in JS, TS, Markdown, CSharp, PHP and Python (for now).
+markdown-emoji-snippets helps you easily add emojis into your file. You can use these emojis in JS, TS, Markdown, CSharp, PHP and Python (for now).
 
 ## Usage
 
 You can download the extension from 👉 //TODO: extension marketplace url!!!
 
 Then, start typing `::<emoji-name>` and add the emoji into your file. That's it!
-
-> You can see the emoji list, by expanding the *Emojis* section.
 
 <details>
 <summary><strong>Emojis</strong></summary>

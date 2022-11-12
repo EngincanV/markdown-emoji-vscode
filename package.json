@@ -1,8 +1,14 @@
 {
-  "name": "markdown-emoji",
-  "displayName": "markdown-emoji",
+  "name": "markdown-emoji-snippets",
+  "displayName": "markdown-emoji-snippets",
   "description": "Helps you easily add emojis into your file.",
   "version": "0.0.1",
+  "publisher": "EngincanV",
+  "icon": "images/markdown-emoji.png",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/EngincanV/markdown-emoji-vscode"
+	},
   "engines": {
     "vscode": "^1.73.0"
   },

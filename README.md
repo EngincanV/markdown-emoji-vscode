@@ -8,6 +8,54 @@ You can download the extension from 👉 //TODO: extension marketplace url!!!
 
 Then, start typing `::<emoji-name>` and add the emoji into your file. That's it!
 
+> You can see the emoji list, by expanding the *Emojis* section.
+
+<details>
+<summary><strong>Emojis</strong></summary>
+
+| Name  | Display  |
+|---|---|
+| smiling | 😀 |
+| sad | 😢 |
+| heart | ❤️ |
+| cross-mark | ❌|
+| crossed-fingers |🤞|
+| check-mark |✅|
+| four-leaf-clover |🍀|
+| vulcan | 🖖 |
+| fire |🔥 |
+| rocket |🚀 |
+| star |⭐ |
+| thumbsup | 👍|
+| thumbsdown | 👎|
+| ok |👌 |
+| wave |👋 |
+| eyes | 👀|
+| tada | 🎉|
+| confetti |🎊 |
+| sparkles | ✨|
+| pc |💻 |
+| phone | 📱|
+| idea |💡 |
+| hourglass |⏳ |
+| stopwatch |⏱ |
+| folder |📁 |
+| file |📄 |
+| key | 🔑|
+| lock | 🔒|
+| unlock |🔓 |
+| link |🔗|
+| hint |💡 |
+| zoom-left | 🔍|
+| zoom-right | 🔎|
+| pray | 🙏|
+| point-left | 👈|
+| point-right |👉 |
+| writing |✍ |
+| reading |📖 |
+| loop | 🔁|
+</details>
+
 ## Additional Notes
 
 ### Working with Markdown

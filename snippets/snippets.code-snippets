@@ -1,0 +1,197 @@
+{
+    "smiling": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::smiling",
+        "body": ["😀"],
+    },
+    "sad": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::sad",
+        "body": ["😢"],
+    },
+    "heart": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::heart",
+        "body": ["❤️"],
+    },
+    "cross-mark": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::cross-mark",
+        "body": ["❌"],
+    },
+    "crossed-fingers": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::crossed-fingers",
+        "body": ["🤞"],
+    },
+    "check-mark": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::check-mark",
+        "body": ["✅"],
+    },
+    "four-leaf-clover": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::four-leaf-clover",
+        "body": ["🍀"],
+    },
+    "vulcan": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::vulcan",
+        "body": ["🖖"],
+    },
+    "fire": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::fire",
+        "body": ["🔥"],
+    },
+    "rocket": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::rocket",
+        "body": ["🚀"],
+    },
+    "star": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::star",
+        "body": ["⭐"],
+    },
+    "thumbsup": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::thumbsup",
+        "body": ["👍"],
+    },
+    "thumbsdown": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::thumbsdown",
+        "body": ["👎"],
+    },
+    "ok": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::ok",
+        "body": ["👌"],
+    },
+    "wave": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::wave",
+        "body": ["👋"],
+    },
+    "eyes": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::eyes",
+        "body": ["👀"],
+    },
+    "tada": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::tada",
+        "body": ["🎉"],
+    },
+    "confetti": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::confetti",
+        "body": ["🎊"],
+    },
+    "sparkles": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::sparkles",
+        "body": ["✨"],
+    },
+    "pc": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::pc",
+        "body": ["💻"],
+    },
+    "phone": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::phone",
+        "body": ["📱"],
+    },
+    "idea": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::idea",
+        "body": ["💡"],
+    },
+    "hourglass": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::hourglass",
+        "body": ["⏳"],
+    },
+    "stopwatch": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::stopwatch",
+        "body": ["⏱"],
+    },
+    "folder": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::folder",
+        "body": ["📁"],
+    },
+    "file": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::file",
+        "body": ["📄"],
+    },
+    "key": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::key",
+        "body": ["🔑"],
+    },
+    "lock": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::lock",
+        "body": ["🔒"],
+    },
+    "unlock": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::unlock",
+        "body": ["🔓"],
+    },
+    "link": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::link",
+        "body": ["🔗"],
+    },
+    "hint": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::hint",
+        "body": ["💡"],
+    },
+    "zoom-left": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::zoom-left",
+        "body": ["🔍"],
+    },
+    "zoom-right": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::zoom-right",
+        "body": ["🔎"],
+    },
+    "pray": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::pray",
+        "body": ["🙏"],
+    },
+    "point-left": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::point-left",
+        "body": ["👈"],
+    },
+    "point-right": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::point-right",
+        "body": ["👉"],
+    },
+    "writing": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::writing",
+        "body": ["✍"],
+    },
+    "reading": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::reading",
+        "body": ["📖"],
+    },
+    "loop": {
+        "scope": "javascript,typescript,html,markdown,csharp,php,python",
+        "prefix": "::loop",
+        "body": ["🔁"],
+    }
+}

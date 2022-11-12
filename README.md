@@ -1,3 +1,5 @@
+![](/images/markdown-emoji.png)
+
 # markdown-emoji-snippets
 
 markdown-emoji-snippets helps you easily add emojis into your file. You can use these emojis in JS, TS, Markdown, CSharp, PHP and Python (for now).
